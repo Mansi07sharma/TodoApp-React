@@ -1,12 +1,67 @@
-# React + Vite
+# 📝 Todo App with React, Vite, and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich Todo App built using <b>React, Vite, and Tailwind CSS v4</b>. This project demonstrates best practices in modern web development, including state management, responsive design, and dark/light mode toggling.
 
-Currently, two official plugins are available:
+##🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✔️ <b>Add New Tasks</b> – Seamlessly add new tasks to your list
+✔️ <b>Task Wall</b> – View all tasks in an organized layout
+✔️ <b>Dark/Light Mode</b> – Switch themes with smooth transitions using Tailwind CSS
+✔️ <b>Responsive Design</b> – Fully functional on both desktop and mobile devices
 
-## Expanding the ESLint configuration
+## Project includes-
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ <b>Performance<b> – Optimized for fast load times using Vite
+✨ <b>Modern UI/UX<b> – Clean and intuitive interface with Tailwind CSS
+✨ <b>Scalable Architecture<b> – Organized file structure to support future enhancements
+✨ <b>Reusable Components<b> – Built with modular and reusable components
+
+##🏗️ Setup and Installation
+### 1. Clone the Repository
+`
+git clone https://github.com/your-username/todo-app.git
+`
+
+### 2. Navigate to the Project Directory
+
+`
+cd todo-app
+`
+
+### 3.Install Dependencies
+<b>Make sure you have Node.js and npm installed.</b>
+
+`
+npm install
+`
+
+### 4. Install and Configure Tailwind CSS
+
+`
+npm install tailwindcss @tailwindcss/vite
+//vite.config.ts
+import { defineConfig } from 'vite'
+import tailwindcss from '@tailwindcss/vite'
+export default defineConfig({
+  plugins: [
+    tailwindcss(),
+  ],
+})
+//CSS
+@import "tailwindcss";
+`
+
+
+### 5. Start the Development Server
+`
+npm run dev
+`
+
+## 🛠️ Technologies Used
+
+<b>React</b>	Frontend framework for building interactive UIs
+<b>Vite</b>	Lightning-fast build tool for modern web development
+<b>Tailwind CSS</b>	Utility-first CSS framework for custom styling
+
+
+<i>On going Learning...</i>
