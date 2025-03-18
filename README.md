@@ -38,19 +38,23 @@ npm install
 
 ### 4. Install and Configure Tailwind CSS
 
-`
-npm install tailwindcss @tailwindcss/vite
-//vite.config.ts
-import { defineConfig } from 'vite'
-import tailwindcss from '@tailwindcss/vite'
-export default defineConfig({
-  plugins: [
-    tailwindcss(),
-  ],
-})
-//CSS
-@import "tailwindcss";
-`
+```
+    npm install tailwindcss @tailwindcss/vite
+    
+    //vite.config.ts
+
+    import { defineConfig } from 'vite'
+    import tailwindcss from '@tailwindcss/vite'
+    export default defineConfig({
+      plugins: [
+        tailwindcss(),
+      ],
+    })
+
+    //CSS
+
+    @import "tailwindcss";
+```
 
 
 ### 5. Start the Development Server
