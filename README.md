@@ -2,7 +2,7 @@
 
 A feature-rich Todo App built using <b>React, Vite, and Tailwind CSS v4</b>. This project demonstrates best practices in modern web development, including state management, responsive design, and dark/light mode toggling.
 
-##🚀 Features
+## 🚀 Features
 <ul>
 <li>✔️ <b>Add New Tasks</b> – Seamlessly add new tasks to your list</li>
 <li>✔️ <b>Task Wall</b> – View all tasks in an organized layout</li>
@@ -17,7 +17,7 @@ A feature-rich Todo App built using <b>React, Vite, and Tailwind CSS v4</b>. Thi
 <li>✨ <b>Scalable Architecture</b> – Organized file structure to support future enhancements</li>
 <li>✨ <b>Reusable Components</b> – Built with modular and reusable components</li>
 
-##🏗️ Setup and Installation
+## 🏗️ Setup and Installation
 ### 1. Clone the Repository
 `
 git clone https://github.com/your-username/todo-app.git
