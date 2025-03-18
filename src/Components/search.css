@@ -1,0 +1,19 @@
+@keyframes colorCycle {
+    0%, 100% { color: #312e81; }  
+    50% { color: #c7d2fe; }       
+  }
+  
+  .animate-color {
+    animation: colorCycle 3s infinite ease-in-out
+  }
+
+  @keyframes colorCycle2 {
+    0%,100% {color:pink;}
+    50% {color:rgb(221, 99, 119)}
+  }
+
+  .animate-color-dark{
+    animation: colorCycle2 3s infinite ease-in-out
+  }
+
+  

@@ -1,0 +1,11 @@
+.standard-theme {
+    background-image: linear-gradient(100deg, rgb(87, 86, 86), rgb(6, 46, 63));
+}
+
+.light-theme {
+    background-image: linear-gradient(100deg, rgb(212, 241, 255), rgb(255, 255, 255));
+}
+
+.darker-theme {
+    background-image: linear-gradient(100deg, rgb(0, 18, 20), rgb(0, 31, 41));
+}
