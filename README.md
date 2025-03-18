@@ -3,18 +3,19 @@
 A feature-rich Todo App built using <b>React, Vite, and Tailwind CSS v4</b>. This project demonstrates best practices in modern web development, including state management, responsive design, and dark/light mode toggling.
 
 ##🚀 Features
-
-✔️ <b>Add New Tasks</b> – Seamlessly add new tasks to your list
-✔️ <b>Task Wall</b> – View all tasks in an organized layout
-✔️ <b>Dark/Light Mode</b> – Switch themes with smooth transitions using Tailwind CSS
-✔️ <b>Responsive Design</b> – Fully functional on both desktop and mobile devices
+<ul>
+<li>✔️ <b>Add New Tasks</b> – Seamlessly add new tasks to your list</li>
+<li>✔️ <b>Task Wall</b> – View all tasks in an organized layout</li>
+<li>✔️ <b>Dark/Light Mode</b> – Switch themes with smooth transitions using Tailwind CSS</li>
+<li>✔️ <b>Responsive Design</b> – Fully functional on both desktop and mobile devices</li>
+</ul>
 
 ## Project includes-
 
-✨ <b>Performance<b> – Optimized for fast load times using Vite
-✨ <b>Modern UI/UX<b> – Clean and intuitive interface with Tailwind CSS
-✨ <b>Scalable Architecture<b> – Organized file structure to support future enhancements
-✨ <b>Reusable Components<b> – Built with modular and reusable components
+<li>✨ <b>Performance</b> – Optimized for fast load times using Vite</li>
+<li>✨ <b>Modern UI/UX</b> – Clean and intuitive interface with Tailwind CSS</li>
+<li>✨ <b>Scalable Architecture</b> – Organized file structure to support future enhancements</li>
+<li>✨ <b>Reusable Components</b> – Built with modular and reusable components</li>
 
 ##🏗️ Setup and Installation
 ### 1. Clone the Repository
